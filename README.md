@@ -9,7 +9,7 @@ Med1Stop is a Medical Record Maintainance web-app.
 ![dev](/screenshots/made.png)
 
 <h3>Website:</h3>
-<a href="connex.pythonanywhere.com">Click here</a>
+<a href="https://connex.pythonanywhere.com/">Click here</a>
 
 <h3>Screenshots:</h3>
 
